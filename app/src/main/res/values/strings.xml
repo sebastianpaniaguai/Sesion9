@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sesion9</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="flash">Flash</string>
+    <string name="caracteristicasFlash">super speed, intangibility, superhuman agility</string>
+    <string name="superman">Superman</string>
+    <string name="caracteristicasSuper">super strength, flight, invulnerability, super speed, heat vision, freeze breath, x-ray vision, superhuman hearing, healing factor</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
